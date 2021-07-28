@@ -11,7 +11,8 @@ You will like those projects!
 
 ---
 
-# h1 Heading 8-)
+# About Me
+"My name is Mariska Goswami and I will be a senior at Troy High School this fall. This summer, I am conducting research at Wayne State University on the DNALi1 protein in mice sperm and proteins that it can potentially interact with to increase its expression, therefore increasing the rate of cilia formation in mice.
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
